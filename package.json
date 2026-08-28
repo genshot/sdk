@@ -1,0 +1,14 @@
+{
+  "name": "@genshot/sdk",
+  "private": true,
+  "description": "Official TypeScript SDK for genshot. Implementation lives in the genshot monorepo and publishes to npm as @genshot/sdk.",
+  "homepage": "https://genshot.dev/api-docs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genshot/sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/genshot/genshot/issues"
+  },
+  "license": "MIT"
+}
