@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://genshot.dev">
+    <img src="https://genshot.dev/logos/genshot-wordmark-dark.png" alt="Genshot" width="420" />
+  </a>
+</p>
+
 # @genshot/sdk
 
 Official TypeScript / JavaScript client for the [genshot](https://genshot.dev) screenshot generation API.
@@ -68,6 +74,11 @@ createGenshotClient({
 ## Errors
 
 Failed responses throw `GenshotApiError` with `status`, `code`, and `message`.
+
+## Related
+
+- [@genshot/cli](https://github.com/genshot/cli) — terminal client for the same API
+- [genshot.dev](https://genshot.dev) — product site and dashboard
 
 ## License
 
